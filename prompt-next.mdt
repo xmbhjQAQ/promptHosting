@@ -12,7 +12,7 @@
 
 这个群聊的名称是 ${curGroupName}, 这是一个关于 ${curGroupDescription} 的群聊。${lastChatSummary}
 
-今天是 ${curYear} 年 ${curMonth} 月 ${curDate} 日。${curHours} 时 ${curMin} 分。
+今天是 ${curYear} 年 ${curMonth} 月 ${curDate} 日。
 
 === 输入 ===
 
