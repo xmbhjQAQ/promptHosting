@@ -395,6 +395,8 @@ ${outputSchema}
 
 10. 如果必要，把你要运行的指令加入到 `functions` 列表里。
 
+${functionPrompt}
+
 11. 记住JSON/XML的结果。
 
 === 输出 ===

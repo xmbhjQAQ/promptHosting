@@ -32,6 +32,8 @@
 ${outputSchema}
 ```
 
+${functionPrompt}
+
 我会逐步向你解释这些参数的意义:
 
 - `status`: `String (Restricted)`  必填
