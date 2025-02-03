@@ -20,6 +20,8 @@ ${config.Bot.BotBackground}。
 ```
 ${outputSchema}
 ```
+
+${functionPrompt}
 当前时间是${curDate}。
 请你想象${BotName}的日常作息，按照当前时间决定是否skip。你也可以在消息记录续写中结合当前时间来让裁判觉得你就是${BotName}，从而给你更高的评价。
 祝你好运。
